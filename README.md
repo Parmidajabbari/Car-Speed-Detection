@@ -34,10 +34,7 @@ The following video showcases a test scenario with:
 - **A vehicle moving on the left**, displaying predicted speed labels.
 - **Optical flow visualization** on the right, showing motion tracking.
 
-<video width="800" controls>
-  <source src="assets/videos/test_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Car Speed Detection](assets/videos/test_video.gif)
 
 ## Installation
 To run the project locally, install the required dependencies:

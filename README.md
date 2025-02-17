@@ -1,7 +1,12 @@
 # Car Speed Detection
 
 Link to the output videos:
-https://drive.google.com/drive/folders/1Rx1B4Yh8mU1Xba17BvnsSSCxJgRauAid?usp=share_link
+![output video](https://drive.google.com/drive/folders/1Rx1B4Yh8mU1Xba17BvnsSSCxJgRauAid?usp=share_link)
+
+
+## Overview
+This project focuses on detecting and estimating the speed of moving vehicles using computer vision techniques. The model leverages **optical flow** and **object detection** to track vehicle movement and calculate speed accurately.
+
 
 ## Demonstration Video
 The following video showcases a test scenario with:
@@ -9,9 +14,6 @@ The following video showcases a test scenario with:
 - **Optical flow visualization** on the right, showing motion tracking.
 
 ![Car Speed Detection](assets/videos/test_video.gif)
-
-## Overview
-This project focuses on detecting and estimating the speed of moving vehicles using computer vision techniques. The model leverages **optical flow** and **object detection** to track vehicle movement and calculate speed accurately.
 
 ## Features
 - **Real-time vehicle detection** using a trained deep learning model.

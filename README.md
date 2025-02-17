@@ -3,6 +3,13 @@
 Link to the output videos:
 https://drive.google.com/drive/folders/1Rx1B4Yh8mU1Xba17BvnsSSCxJgRauAid?usp=share_link
 
+## Demonstration Video
+The following video showcases a test scenario with:
+- **A vehicle moving on the left**, displaying predicted speed labels.
+- **Optical flow visualization** on the right, showing motion tracking.
+
+![Car Speed Detection](assets/videos/test_video.gif)
+
 ## Overview
 This project focuses on detecting and estimating the speed of moving vehicles using computer vision techniques. The model leverages **optical flow** and **object detection** to track vehicle movement and calculate speed accurately.
 
@@ -28,13 +35,6 @@ The system was tested on real-world traffic videos, achieving:
 - **High accuracy** in detecting moving vehicles.
 - **Reliable speed estimation** within an error margin of ±5 km/h.
 - **Smooth motion tracking** with clear bounding boxes.
-
-## Demonstration Video
-The following video showcases a test scenario with:
-- **A vehicle moving on the left**, displaying predicted speed labels.
-- **Optical flow visualization** on the right, showing motion tracking.
-
-![Car Speed Detection](assets/videos/test_video.gif)
 
 ## Installation
 To run the project locally, install the required dependencies:

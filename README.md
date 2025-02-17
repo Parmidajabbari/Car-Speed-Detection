@@ -1,7 +1,7 @@
 # Car Speed Detection
 
 Link to the output videos:
-![output video](https://drive.google.com/drive/folders/1Rx1B4Yh8mU1Xba17BvnsSSCxJgRauAid?usp=share_link)
+[output video](https://drive.google.com/drive/folders/1Rx1B4Yh8mU1Xba17BvnsSSCxJgRauAid?usp=share_link)
 
 
 ## Overview
